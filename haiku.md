@@ -1,4 +1,4 @@
-Hello World! 
+Hi There! 
 Autumn whispers low,
 leaves fall in a golden hush,
 earth cradles their rest.
@@ -8,4 +8,4 @@ But it is concise
 Snowflakes drift and dance,
 quiet blanket, soft embrace,
 winter’s gentle hush.
-Goodbye!
+Have a Nice Day!
