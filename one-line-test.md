@@ -1,2 +1,2 @@
 Hello World!
-Replace me!
+John was here ^.^
